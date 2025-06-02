@@ -1,63 +1,50 @@
-<h1 align="center"> 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl0d3V3b2VqY3V5d2V6Y2N5ZzR5Y2V6Z2ZqZzZqZzZqZzZqZzZqZzZqZzZqZw==/giphy.gif" width="30px"> 
-  **سلام، من [نام تو] هستم!** 
-  <img src="https://media.giphy.com/media/Ln2dAW9oycjgmTpjX9/giphy.gif" width="30px"> 
-</h1>
+<h1 align="center">Hi there 👋, I'm Amir Karimi</h1>
+<h3 align="center">aka @EXXI3T — Frontend & Fullstack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Anime+Ace&size=25&duration=3000&pause=1000&color=FF7F50&center=true&vCenter=true&width=500&lines=عاشق+کدنویسی+☕;دنیا+رو+با+کد+تغییر+می‌دم+💻;گیک+انیمه‌ای+🍥;همیشه+یاد+می‌گیرم+🌱">
+  🚀 Passionate about modern web development, pixel-perfect UI, and creative problem-solving.
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
-</div>
+---
 
-## 🚀 **مهارت‌ها و تکنولوژی‌ها**  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,html,css,tailwind,git,docker&theme=dark&perline=5">
-</div>
+### 🧠 About Me
 
-## 🌟 **پروژه‌های برتر**  
-<p align="center">
-  <a href="[لینک پروژه 1]">
-    <img src="https://media.giphy.com/media/3o7TKsQ8gqVrXhq5Zm/giphy.gif" width="120">
-  </a>
-  <a href="[لینک پروژه 2]">
-    <img src="https://media.giphy.com/media/3o7TKsQ8gqVrXhq5Zm/giphy.gif" width="120">
-  </a>
-</p>
+- 🧑‍💻 Skilled in **JavaScript**, **TypeScript**, **React**, **Next.js**, **Node.js**, **MongoDB**
+- 🎨 Love crafting beautiful UIs with **HTML**, **CSS**, **TailwindCSS**, **Bootstrap**
+- 📚 Always learning & exploring new technologies
+- 📫 Reach me on Telegram: [@EXXI3T](https://t.me/EXXI3T)
 
-## 📊 **آمار گیت‌هاب**  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[نام کاربری]&show_icons=true&theme=radical&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[نام کاربری]&theme=radical&hide_border=true">
-</div>
+---
 
-## 📫 **ارتباط با من**  
-<p align="center">
-  <a href="[لینک تلگرام/دیسکورد]">
-    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-  <a href="[لینک لینکدین]">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+### 🔧 Tech Stack
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200">
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
 </div>
 
-<!--
-**exxi3t/exxi3t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=exxi3t&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=exxi3t&theme=tokyonight" width="47%" />
+</div>
+
+---
+
+### 🔗 Social & Contact
+
+- Telegram: [@EXXI3T](https://t.me/EXXI3T)
