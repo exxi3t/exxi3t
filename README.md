@@ -1,50 +1,59 @@
-<h1 align="center">Hi there 👋, I'm Amir Karimi</h1>
-<h3 align="center">aka @EXXI3T — Frontend & Fullstack Developer</h3>
-
-<p align="center">
-  🚀 Passionate about modern web development, pixel-perfect UI, and creative problem-solving.
-</p>
-
----
-
-### 🧠 About Me
-
-- 🧑‍💻 Skilled in **JavaScript**, **TypeScript**, **React**, **Next.js**, **Node.js**, **MongoDB**
-- 🎨 Love crafting beautiful UIs with **HTML**, **CSS**, **TailwindCSS**, **Bootstrap**
-- 📚 Always learning & exploring new technologies
-- 📫 Reach me on Telegram: [@EXXI3T](https://t.me/EXXI3T)
-
----
-
-### 🔧 Tech Stack
-
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl0d3V3b2VqY3V5d2V6Y2N5ZzR5Y2V6Z2ZqZzZqZzZqZzZqZzZqZzZqZzZqZw==/giphy.gif" width="100px">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
+  ## **🚀 Code | Create | Conquer**  
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=500&lines=console.log(%22Hello+World%22);while(alive()){code();};Full-Stack+Wizard;React+%7C+Next.js+%7C+Node.js;MongoDB+%7C+TypeScript" alt="Typing Animation">
 
+  ![Matrix Code](https://media.giphy.com/media/Ln2dAW9oycjgmTpjX9/giphy.gif)
 </div>
 
 ---
 
-### 📈 GitHub Stats
-
+## **💻 Tech Stack**  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=exxi3t&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=exxi3t&theme=tokyonight" width="47%" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,html,css,tailwind,bootstrap,git,github,vscode&theme=dark&perline=7">
 </div>
 
 ---
 
-### 🔗 Social & Contact
+## **🔥 Featured Projects**  
+<div align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EXXI3T&repo=PROJECT_1&theme=radical" width="400">
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EXXI3T&repo=PROJECT_2&theme=radical" width="400">
+  </a>
+</div>
 
-- Telegram: [@EXXI3T](https://t.me/EXXI3T)
+---
+
+## **📊 GitHub Stats**  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EXXI3T&show_icons=true&theme=radical&count_private=true" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EXXI3T&theme=radical" width="400">
+</div>
+
+---
+
+## **🌐 Connect With Me**  
+<div align="center">
+  <a href="https://t.me/EXXI3T">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
+
+---
+
+<div align="center">
+  ![Anime Footer](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=EXXI3T&label=Profile+Views&color=FF00FF&style=flat" alt="Profile Views">
+</div>
